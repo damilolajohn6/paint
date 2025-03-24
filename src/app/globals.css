@@ -120,7 +120,7 @@
   }
 
   .container {
-    @apply mx-auto px-4;
+    @apply mx-auto py-10 px-6;
   }
 
   
